@@ -5,3 +5,32 @@
 .divs-facilidades{
     width: 325px;
 }
+.mb-1 {
+    margin-bottom: 0.25rem!important;
+    color: #DAFF01;
+}
+
+.fs-1 {
+    color: #DAFF01;
+}
+.btn-primary{
+    color: white;
+    background-color: #9353FF;
+    border-radius: 0rem;
+}
+
+.carousel-inner > .carousel-item > img {
+    width: 120rem; 
+    border-radius: 1px;
+    border-bottom-left-radius: 1px;
+  }
+
+  .posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
