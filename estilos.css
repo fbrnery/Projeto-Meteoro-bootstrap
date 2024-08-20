@@ -34,3 +34,8 @@
         top:60%;
     }
 }
+
+.p-3 {
+    padding: 1rem!important;
+    width: 80%;
+}
