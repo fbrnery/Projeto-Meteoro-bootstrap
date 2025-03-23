@@ -36,6 +36,27 @@
 }
 
 .p-3 {
-    padding: 1rem!important;
-    width: 80%;
+    padding: 5rem!important;
+    width: 100%;
+    color: aliceblue;
+}
+
+.pb-5 {
+    padding-bottom: 3rem!important;
+    padding-top: 3rem;
+}
+
+/* Topo*/
+
+.top {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.topo {
+    color: black;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
 }
